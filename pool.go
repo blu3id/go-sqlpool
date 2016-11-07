@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/GitbookIO/go-sqlpool/utils/condgroup"
-	"github.com/GitbookIO/go-sqlpool/utils/counter"
+	"github.com/blu3id/go-sqlpool/utils/condgroup"
+	"github.com/blu3id/go-sqlpool/utils/counter"
 )
 
 type Opts struct {
